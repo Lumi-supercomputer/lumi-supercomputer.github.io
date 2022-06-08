@@ -19,8 +19,8 @@ theme:
   palette:
     - primary: black
 
-hide:
-  - toc
+#hide:
+#  - toc
 
 nav:
   - About this site: 
