@@ -8,7 +8,7 @@ However, your first (and official) source of information is
 
 Subsites:
 
--   [Training materials](https://lumi-supercomputer.github.io/LUMI-training-materials) *(oriented towards users, developers
+-   [Training materials](LUMI-training-materials) *(oriented towards users, developers
     and local support organisations)*
--   [Technical documentation of the LUMI software stacks](https://lumi-supercomputer.github.io/LUMI-SoftwareStack/)
+-   [Technical documentation of the LUMI software stacks](LUMI-SoftwareStack)
     *(oriented towards support organisations and third parties interested in how things are done on LUMI)*
