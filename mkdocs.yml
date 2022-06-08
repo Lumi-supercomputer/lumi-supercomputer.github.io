@@ -1,0 +1,69 @@
+site_name: "Landing pages of the LUMI GitHub.io sites"
+site_url: https://lumi-supercomputer.github.io/
+site_dir: site
+site_description: >-
+  GitHub landing page of the LUMI supercomputer GitHub.io site
+
+theme:
+  name: material
+  # We'll customise the team (basically a simpler footer)
+  #custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tracking
+    #- navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+  palette:
+    - primary: black
+
+hide:
+  - toc
+
+nav:
+  - About this site: 
+    - index.md
+  - LUMI training materials: LUMI-training-materials
+  - LUMI software stack: LUMI-SoftwareStack
+
+plugins:
+  # show revision date at bottom of each page
+  - git-revision-date-localized
+
+markdown_extensions:
+  - meta
+  # Nicer tables
+  - tables
+  # notes, warnings, hints, ...
+  - admonition
+  # code blocks with syntax highlighting, graphs
+  - pymdownx.superfences:
+        custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # clickable details
+  - pymdownx.details
+  # tabbed contents
+  - pymdownx.tabbed
+  - toc:
+      permalink: false
+      toc_depth: 3
+
+extra:
+  # add links in bottom right
+  social:
+      #- type: github
+      #icon: octicons/logo-github
+      #link: https://github.com/easybuilders
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCb31KOJ6Wqu0sRpIRi_k8Mw
+      name: LUMI on YouTube
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/lumi-supercomputer
+      name: LUMI on LinkedIn
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/LUMIhpc
+      name: LUMI on Twitter
