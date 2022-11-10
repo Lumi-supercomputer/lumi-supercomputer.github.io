@@ -10,5 +10,8 @@ Subsites:
 
 -   [Training materials](LUMI-training-materials) *(oriented towards users, developers
     and local support organisations)*
+-   [LUMI software library](LUMI-EasyBuild-docs) contains an overview of all software that is either
+    pre-installed in the LUMI software stacks (those activated by the LUMI modules) or can be
+    directly installed via [EasyBuild](https://docs.lumi-supercomputer.eu/software/installing/easybuild/)
 -   [Technical documentation of the LUMI software stacks](LUMI-SoftwareStack)
     *(oriented towards support organisations and third parties interested in how things are done on LUMI)*

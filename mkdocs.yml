@@ -26,6 +26,7 @@ nav:
   - About this site: 
     - index.md
   - LUMI training materials: LUMI-training-materials
+  - LUMI software library: LUMI-EasyBuild-docs
   - LUMI software stack: LUMI-SoftwareStack
 
 plugins:
