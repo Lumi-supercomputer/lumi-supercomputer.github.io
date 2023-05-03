@@ -28,10 +28,11 @@ nav:
   - LUMI training materials: LUMI-training-materials
   - LUMI software library: LUMI-EasyBuild-docs
   - LUMI software stack: LUMI-SoftwareStack
+  - EasyBuild tutorials: easybuild-tutorial
 
 plugins:
   # show revision date at bottom of each page
-  - git-revision-date-localized
+  # - git-revision-date-localized
 
 markdown_extensions:
   - meta
