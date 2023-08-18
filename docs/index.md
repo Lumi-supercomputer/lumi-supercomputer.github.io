@@ -8,6 +8,7 @@ However, your first (and official) source of information is
 
 Subsites:
 
+-   [System updates](LUMI-training-materials/User-Updates): Notes for all users after system updates
 -   [Training materials](LUMI-training-materials) *(oriented towards users, developers
     and local support organisations)*
 -   [LUMI software library](LUMI-EasyBuild-docs) contains an overview of all software that is either
