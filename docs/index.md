@@ -16,6 +16,6 @@ Subsites:
     directly installed via [EasyBuild](https://docs.lumi-supercomputer.eu/software/installing/easybuild/)
 -   [Technical documentation of the LUMI software stacks](LUMI-SoftwareStack)
     *(oriented towards support organisations and third parties interested in how things are done on LUMI)*
--   EasyBuild tutorials for LUMI:\
+-   EasyBuild tutorials for LUMI:
     -   [Tutorial prepared by K. Lust (LUST & University of Antwerpen) for LUST, CSC and local organisations (May 2022)](https://lumi-supercomputer.github.io/easybuild-tutorial/2022-CSC_and_LO/)
-    -   [Tutorial prepared by K. Hoste and L. MArsella (CSCS) as introduction for LUST (spring 2021)](https://lumi-supercomputer.github.io/easybuild-tutorial/2021-lust/)
+    -   [Tutorial prepared by K. Hoste and L. Marsella (CSCS) as introduction for LUST (spring 2021)](https://lumi-supercomputer.github.io/easybuild-tutorial/2021-lust/)
