@@ -33,6 +33,12 @@ nav:
 plugins:
   # show revision date at bottom of each page
   # - git-revision-date-localized
+  # necessary for search to work
+  # - search
+  # redirects to avoid broken URLs in original version of the tutorial (June 2020)
+  - redirects:
+      redirect_maps:
+          update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
 
 markdown_extensions:
   - meta
