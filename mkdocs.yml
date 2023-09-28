@@ -38,6 +38,8 @@ plugins:
   # redirects to avoid broken URLs in original version of the tutorial (June 2020)
   - redirects:
       redirect_maps:
+          comprehensive-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/comprehensive-latest/
+          intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
 
 markdown_extensions:
