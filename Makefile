@@ -3,7 +3,7 @@ all: preview
 build:
 	mkdocs build
 
-deploy:
+deploy deploy-origin:
 	mkdocs gh-deploy --force
 
 check test:
