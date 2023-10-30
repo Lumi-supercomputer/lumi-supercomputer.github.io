@@ -41,6 +41,7 @@ plugins:
           comprehensive-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/comprehensive-latest/
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
+          update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
 
 markdown_extensions:
   - meta
