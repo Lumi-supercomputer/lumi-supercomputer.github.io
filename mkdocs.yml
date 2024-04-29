@@ -42,11 +42,10 @@ plugins:
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
           update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
-          Amsterdam-1.md: https://lumi-supercomputer.github.io/LUMI-training-materials/2day-20240502/E03_Exercises_1/
-          Amsterdam-2.md: https://lumi-supercomputer.github.io/LUMI-training-materials/2day-20240502/E04_Exercises_2/
-          Amsterdam-3.md: https://lumi-supercomputer.github.io/LUMI-training-materials/2day-20240502/E05_Exercises_3/
-          Amsterdam-4.md: https://lumi-supercomputer.github.io/LUMI-training-materials/2day-20240502/E07_Exercises_4/
-          Amsterdam-5.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-5/
+          Amsterdam-1.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-1/
+          Amsterdam-2.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-2/
+          Amsterdam-3.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-3/
+          Amsterdam-4.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-4/
 
 markdown_extensions:
   - meta
