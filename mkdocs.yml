@@ -40,6 +40,7 @@ plugins:
       redirect_maps:
           comprehensive-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/comprehensive-latest/
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
+          ai-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/ai-latest/
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
           update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
           #Amsterdam-1.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-1/
