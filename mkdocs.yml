@@ -39,16 +39,13 @@ plugins:
   - redirects:
       redirect_maps:
           comprehensive-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/comprehensive-latest/
+          advanced-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/advanced-latest/
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           AI-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/AI-latest/
           ai-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/ai-latest/
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
           update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
           update-202409.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202409/
-          #Amsterdam-1.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-1/
-          #Amsterdam-2.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-2/
-          #Amsterdam-3.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-3/
-          #Amsterdam-4.md: https://lumi-supercomputer.github.io/LUMI-training-materials/Amsterdam-4/
 
 markdown_extensions:
   - meta
