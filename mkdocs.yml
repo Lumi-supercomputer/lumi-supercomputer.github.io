@@ -46,6 +46,8 @@ plugins:
           update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
           update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
           update-202409.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202409/
+          update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
+          update.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
 
 markdown_extensions:
   - meta
