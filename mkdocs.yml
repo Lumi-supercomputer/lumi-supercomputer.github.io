@@ -48,6 +48,7 @@ plugins:
           update-202409.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202409/
           update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
           update.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
+          terms-update: https://lumi-supercomputer.eu/lumi-service-status/important-all-lumi-users-to-re-approve-the-lumi-terms-of-use-https-my-csc-fi-terms-before-sunday-12-april-2359-eest-2259-cest/
 
 markdown_extensions:
   - meta
