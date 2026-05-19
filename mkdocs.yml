@@ -49,8 +49,8 @@ plugins:
           update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
           update.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
           terms-update.md: https://lumi-supercomputer.eu/lumi-service-status/important-all-lumi-users-to-re-approve-the-lumi-terms-of-use-https-my-csc-fi-terms-before-sunday-12-april-2359-eest-2259-cest/
-          hackathon.md: https://lumi-supercomputer.github.io/LUMI-training-materials/hackathon.md
-          menu.md: https://lumi-supercomputer.github.io/LUMI-training-materials/menu.md
+          hackathon.md: https://lumi-supercomputer.github.io/LUMI-training-materials/hackathon/
+          menu.md: https://lumi-supercomputer.github.io/LUMI-training-materials/menu/
 
 markdown_extensions:
   - meta
