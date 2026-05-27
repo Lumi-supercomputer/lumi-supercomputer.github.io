@@ -39,6 +39,7 @@ plugins:
   - redirects:
       redirect_maps:
           comprehensive-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/comprehensive-latest/
+          paow-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/paow-latest/
           advanced-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/advanced-latest/
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           AI-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/AI-latest/
