@@ -44,11 +44,12 @@ plugins:
           intro-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/intro-latest/
           AI-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/AI-latest/
           ai-latest.md: https://lumi-supercomputer.github.io/LUMI-training-materials/ai-latest/
-          update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202308/
-          update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202311/
-          update-202409.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202409/
-          update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
-          update.md: https://lumi-supercomputer.github.io/LUMI-training-materials/User-Updates/Update-202601/
+          update-202308.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update-202308/
+          update-202311.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update-202311/
+          update-202409.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update-202409/
+          update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update-202601/
+          update-202601.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update-202701/
+          update.md: https://lumi-supercomputer.github.io/LUMI-training-materials/update/
           terms-update.md: https://lumi-supercomputer.eu/lumi-service-status/important-all-lumi-users-to-re-approve-the-lumi-terms-of-use-https-my-csc-fi-terms-before-sunday-12-april-2359-eest-2259-cest/
           hackathon.md: https://lumi-supercomputer.github.io/LUMI-training-materials/hackathon/
           menu.md: https://lumi-supercomputer.github.io/LUMI-training-materials/menu/
